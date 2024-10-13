@@ -1,3 +1,4 @@
 matploblib
 psycopg2
 datetime
+tkinter
