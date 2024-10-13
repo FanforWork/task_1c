@@ -1,10 +1,9 @@
 import tkinter
 from tkinter import messagebox
 
-
+from make_plots import Plot
 from add_dish import AddDish
 from find_redact_dish import SearchDish
-from make_plots import Plot
 
 class AppWindow:
     def __init__(self, master):

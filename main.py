@@ -1,4 +1,4 @@
-from src import window, add_dish
+from src import window
 
 if __name__ == "__main__":
     window.run_app()
